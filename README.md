@@ -4,9 +4,13 @@ contemprorary intermedia artist
 
 ### Pic:
 
-![Image of agamura](http://agamura.art/zuntitled-zooper-8.png)
+![Image of agamura](https://github.com/agamurian/agamura.art/blob/gh-pages/untitled-zooper-12.png)
 
 ```markdown
+
+
+![Image of agamura](https://github.com/agamurian/agamura.art/blob/gh-pages/untitled-zooper-12.png)
+
 Syntax highlighted code block
 
 # Header 1
