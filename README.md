@@ -4,7 +4,7 @@ contemprorary intermedia artist
 
 ### Pic:
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of agamura](http://agamura.art/zuntitled-zooper-8.png)
 
 ```markdown
 Syntax highlighted code block
