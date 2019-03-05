@@ -1,17 +1,8 @@
-## ANDREI GOLOVIN
-
-contemprorary intermedia artist
-
 ### Pic:
 
-![Image of agamura](https://github.com/agamurian/agamura.art/blob/gh-pages/untitled-zooper-12.png)
+![pic1](http://agamura.art/untitled-zooper-12.png)
 
 ```markdown
-
-
-![Image of agamura](https://github.com/agamurian/agamura.art/blob/gh-pages/untitled-zooper-12.png)
-
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
