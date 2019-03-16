@@ -87,7 +87,9 @@ border-radius: 15px;}
 
 
 .btn
-{margin-top: 17px; }
+{border-radius: 4px; font-size: 17px; color: #ffffff ;border: 4px; transition: 0.2s ease;}
+.btn:hover
+{border-radius: 4px;transition: 0.2s ease;}
 
 .btn-dark
 {border-radius: 4px; background-color: #181818; font-size: 17px; border: 4px; transition: 0.2s ease;}
