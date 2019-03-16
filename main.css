@@ -1,5 +1,5 @@
 .container
-{font-family: Source Code Pro Medium, monospace; font-size: 17px;}
+{font-family: Source Code Pro Medium, monospace; font-size: 17px; max-width: 1800px}
 
 
 .overlay {
@@ -74,7 +74,7 @@ border-radius: 15px;}
 
 
 .card
-{background-color: transparent; border: 0px solid #444; margin-top: 40px; border-radius: 7px; opacity: 1;transition: 0.3s ease;}
+{background-color: transparent; border: 0px solid #444; margin-top: 40px; border-radius: 7px; opacity: 0.9;transition: 0.3s ease;}
 
 /*ded985*/
 /*de9975*/
@@ -121,7 +121,7 @@ a:hover {
 /* selected link */
 a:active {
     color: blue;
-}
+} 
 
 .card-note
 {background-color: #ded985; border: none;}
