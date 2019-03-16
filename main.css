@@ -96,6 +96,11 @@ border-radius: 15px;}
 .btn-dark:hover
 {border-radius: 4px;background-color: rgba(200,135,0,0.5);transition: 0.2s ease;}
 
+.btn-lite
+{border-radius: 4px; background-color: #818181; font-size: 17px; border: 4px; transition: 0.2s ease;}
+.btn-lite:hover
+{border-radius: 4px;background-color: rgba(200,135,0,0.5);transition: 0.2s ease;}
+
 
 .card-body
 {font-family: Source Code Pro Medium, monospace; font-size: 17px;}
