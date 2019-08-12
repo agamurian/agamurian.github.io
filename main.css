@@ -196,7 +196,7 @@ a:active {
 {background-color: #642000;}
 
 .card-lite
-{background-color: rgba(123,123,120,0.3); border: 2px solid; opacity: 0.9;transition: 0.3s ease;}
+{background-color: rgba(123,123,120,0.3); border: 3px solid margin-top: 40px; padding: 10px; opacity: 0.9;transition: 0.3s ease;}
 
 .card-lite:hover
 {background-color: rgba(240,240,240,0.5); border: none; opacity: 1.0;transition: 0.3s ease;}
