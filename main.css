@@ -87,31 +87,31 @@ border-radius: 15px;}
 
 
 .btn
-{border-radius: 4px; font-size: 17px; color: #ffffff ;border: 4px; transition: 0.2s ease;}
+{border-radius: 4px; font-size: 15px; color: #ffffff ;border: 4px; transition: 0.2s ease;}
 .btn:hover
 {border-radius: 4px;transition: 0.2s ease;}
 
 .btn-dark
-{border-radius: 4px; background-color: #181818; font-size: 17px; border: 4px; transition: 0.2s ease;}
+{border-radius: 4px; background-color: #181818; font-size: 15px; border: 4px; transition: 0.2s ease;}
 .btn-dark:hover
 {border-radius: 4px;background-color: rgba(200,135,0,0.5);transition: 0.2s ease;}
 
 .btn-light
-{border-radius: 4px; background-color: #818181; font-size: 17px; border: 4px; transition: 0.2s ease;}
+{border-radius: 4px; background-color: #818181; font-size: 15px; border: 4px; transition: 0.2s ease;}
 .btn-light:hover
 {border-radius: 4px;background-color: rgba(200,135,0,0.5);transition: 0.2s ease;}
 
 
 .card-body
-{font-family: Source Code Pro Medium, monospace; font-size: 17px;}
+{font-family: Source Code Pro Medium, monospace; font-size: 15px;}
 
 .img-thumbnail
 {border: none; padding: none; margin: none;}
 
 .mfooter
-{color: #ededed; font-size: 17px; text-align: left; opacity: 0.8;}
+{color: #ededed; font-size: 15px; text-align: left; opacity: 0.8;}
 .lfooter
-{color: #777; font-size: 17px;}
+{color: #777; font-size: 15px;}
 
  /* unvisited link */
 a:link {
