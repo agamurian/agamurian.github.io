@@ -79,6 +79,10 @@ border-radius: 15px;}
 .card
 {background-color: transparent; border: 0px solid #444; margin-top: 40px; border-radius: 7px; opacity: 0.9;transition: 0.3s ease;}
 
+
+.card-lite
+{background-color: #cccccc; border: 0px solid #444; margin-top: 40px; border-radius: 7px; opacity: 0.9;transition: 0.3s ease;}
+
 /*ded985*/
 /*de9975*/
 
