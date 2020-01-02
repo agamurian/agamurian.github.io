@@ -2,12 +2,10 @@
 layout: post
 title: "Procrastinator"
 author: "Andrey Golovin"
-categories: facts
+categories: projects
 tags: [sample]
-image: 005.png
 ---
 
-# procrastinator
-
-pseudo-interactive video art / software art
+pseudo-interactive video art / software art\
+image: 005.png
 
