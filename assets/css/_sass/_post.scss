@@ -31,12 +31,12 @@
     align: left;
     margin: 5px auto 25px;
     display: block;
-    max-width: 60vw;
+    max-width: 120vw;
   }
 }
 @media (max-width: $tablet-width) {
   .page-content {
-    width: 95vw;
+    width: 120vw;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -47,7 +47,7 @@
     align: left;
     margin: 5px auto 25px;
     display: block;
-    max-width: 95vw;
+    max-width: 200vw;
   }
 }
 .post-share {
@@ -74,7 +74,7 @@
 }
 .related-thumbnail {
   position: relative;
-  width: 600px;
+  width: 1200px;
   height: 200px;
   overflow: hidden;
 }
@@ -95,7 +95,7 @@
 }
 @media (max-width: $container-width) {
   .related-thumbnail{
-    width: 60vw;
+    width: 120vw;
   }
 }
 @media (max-width: $tablet-width) {
