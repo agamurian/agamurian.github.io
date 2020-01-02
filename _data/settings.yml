@@ -1,6 +1,6 @@
 # Change 'comments' to true for Disqus comments
 disqus:
-  comments: false
+  comments: true
   disqus_shortname: 'millennial-3'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
@@ -8,7 +8,6 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'projects', folder: 'pages', file: 'projects.html'}
-- {name: 'resources', folder: 'pages', file: 'resources.html'}
 - {name: 'blog', folder: 'pages', file: 'sample-posts.html'}
 #- {name: 'cv bio etc', folder: 'pages', file: 'documentation.html'}
 - {name: 'cv bio etc', folder: 'pages', file: 'about.html'}
@@ -22,5 +21,5 @@ menu:
 
 # Customize site text
 pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+  next_page: '<<<<<'
+  previous_page: '>>>>>'
