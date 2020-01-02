@@ -2,7 +2,7 @@
 layout: post
 title: "About the Author"
 author: "Paul Le"
-categories: facts
+categories: project
 tags: [project]
 image: 005.png
 ---
