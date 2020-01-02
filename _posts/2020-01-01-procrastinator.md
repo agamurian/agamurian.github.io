@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: post
 title: "Procrastinator"
 author: "Andrey Golovin"
 categories: projects
