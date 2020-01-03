@@ -6,7 +6,6 @@ categories: projects
 tags: [sample]
 image: 005.png
 ---
-<div class="card-body">
 
 pseudo-interactive video art / software art
 
@@ -51,4 +50,3 @@ screenshots
 ![alt text](https://raw.githubusercontent.com/agamurian/agamurian.github.io/master/assets/img/033.png "image")
 ![alt text](https://raw.githubusercontent.com/agamurian/agamurian.github.io/master/assets/img/034.png "image")
 ![alt text](https://raw.githubusercontent.com/agamurian/agamurian.github.io/master/assets/img/035.png "image")
-    </div>
