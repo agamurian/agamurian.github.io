@@ -1,12 +1,11 @@
 ---
 layout: default
 ---
-
-<div class="page-content">
   <h1>
     {{ page.title }}
   </h1>
-
+  <div class="row">
+    <div class="col-md">
   <span class="post-date">
     {{ site.data.settings.post_date_prefix }}
     {% assign d = page.date | date: "%-d"  %}
@@ -32,8 +31,7 @@ layout: default
   {% endif %}
 
   <article>
-  <div class="row">
-    <div class="col-md">
+  
     {{ content }}
     </div></div>
   </article>
@@ -44,6 +42,3 @@ layout: default
       <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.github.url }}{{ page.url }}&amp;title={{ page.title }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
     </div>
   </div>
-
-
-</div>
