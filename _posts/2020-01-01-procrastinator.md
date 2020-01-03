@@ -6,6 +6,9 @@ categories: projects
 tags: [sample]
 image: 005.png
 ---
+ <div class="card-body">
+      <a href="{{ site.github.url }}{{ post.url }}">
+    <h5 class="card-title">Special title treatment</h5>
 
 pseudo-interactive video art / software art
 
@@ -50,3 +53,7 @@ screenshots
 ![alt text](https://raw.githubusercontent.com/agamurian/agamurian.github.io/master/assets/img/033.png "image")
 ![alt text](https://raw.githubusercontent.com/agamurian/agamurian.github.io/master/assets/img/034.png "image")
 ![alt text](https://raw.githubusercontent.com/agamurian/agamurian.github.io/master/assets/img/035.png "image")
+
+        <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <h2><span>{{ post.title }}</span></h2>
+    </div>
