@@ -1,9 +1,13 @@
 ---
+title: Getting Started
+date: 2016-10-10 00:00:00 Z
+categories:
+- documentation
+tags:
+- documentation
+- sample
 layout: post
-title: "Getting Started"
-author: "Paul Le"
-categories: documentation
-tags: [documentation,sample]
+author: Paul Le
 image: city-2.jpg
 ---
 

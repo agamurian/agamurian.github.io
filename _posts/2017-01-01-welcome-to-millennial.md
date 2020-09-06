@@ -1,9 +1,13 @@
 ---
+title: Welcome to Millennial!
+date: 2017-01-01 00:00:00 Z
+categories:
+- documentation
+tags:
+- documentation
+- sample
 layout: post
-title: "Welcome to Millennial!"
-author: "Paul Le"
-categories: documentation
-tags: [documentation,sample]
+author: Paul Le
 image: cuba-1.jpg
 ---
 

@@ -1,9 +1,13 @@
 ---
+title: Learning Resources
+date: 2016-05-05 00:00:00 Z
+categories:
+- facts
+tags:
+- documentation
+- sample
 layout: post
-title: "Learning Resources"
-author: "Paul Le"
-categories: facts
-tags: [documentation,sample]
+author: Paul Le
 image: arctic-4.jpg
 ---
 

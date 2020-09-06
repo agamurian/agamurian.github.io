@@ -1,6 +1,6 @@
 ---
-layout: misc
 title: About
+layout: misc
 ---
 
 <div class="card">
