@@ -5,6 +5,7 @@ body {
   font-family: monospace;
   line-height: 1.5;
   min-height: 100%;
+  text-rendering: optimizeLegibility;
 }
 
 ::selection {
