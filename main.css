@@ -117,3 +117,20 @@ a:hover {
   line-height: 0.5;
   padding: 15px 15px 0px 15px;
 }
+
+.portfolio-image {
+  width: auto;
+  height: 85%;
+  display: block;
+  border: none;
+  border-radius: 6px;
+  margin: auto;
+  margin-bottom: 45px;
+  margin-top: 45px;
+}
+
+.portfolio-video {
+  border-radius: 6px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
