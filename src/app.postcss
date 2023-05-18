@@ -1,0 +1,85 @@
+/* Write your global styles here, in PostCSS syntax */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    color: #eee;
+    background-color: #111;
+    line-height: 1.5;
+    font-family: 'Golos Text', sans-serif;
+}
+
+::-moz-selection { /* Code for Firefox */
+  color: white;
+  background: red;
+}
+
+::selection {
+  color: white;
+  background: red;
+}
+
+h1 {
+    font-size: min(6rem);
+  }
+h2 {
+    font-size: 4.5rem;
+  }
+h3 {
+    font-size: 4rem;
+  }
+h4 {
+    font-size: 3.5rem;
+  }
+h4 {
+    font-size: 1.8rem;
+  }
+h5 {
+    font-size: 1.5rem;
+  }
+h6 {
+    font-size: 1.3rem;
+  }
+
+@media (max-width: 768px) {
+
+h1 {
+    font-size: min(3rem);
+  }
+h2 {
+    font-size: 2.5rem;
+  }
+h3 {
+    font-size: 2.2rem;
+  }
+h4 {
+    font-size: 1.8rem;
+  }
+h4 {
+    font-size: 1.6rem;
+  }
+h5 {
+    font-size: 1.4rem;
+  }
+h6 {
+    font-size: 1.3rem;
+  }
+  }
+
+p {
+    font-size: 1.2rem;
+  }
+	hr {
+		margin-top: 1.5rem;
+		margin-bottom: 1.25rem;
+		border-top: 3px solid #888f;
+	}
+
+	a {
+		text-decoration: underline 4px #8883;
+		transition: 0.1s ease-out;
+	}
+	a:hover {
+		text-decoration: underline 4px #f55a;
+	}
