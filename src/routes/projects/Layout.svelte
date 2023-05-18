@@ -1,9 +1,10 @@
 <script lang="ts">
 	export let id: number;
+	import { page } from '$app/stores';
 	import { lang } from '$lib/stores';
 	import { projects } from '$lib/content/projects';
 	import LocalNav from '$lib/components/Navbar/LocalNav.svelte';
-	let project = projects.find((x) => x.id == id);
+	const project = projects.find((x: projectType) => x.href == $page.url.pathname);
 </script>
 
 <LocalNav>

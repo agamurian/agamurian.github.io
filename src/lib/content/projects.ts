@@ -1,14 +1,28 @@
-export const tags = [
+type tagType = {key: string, en: string, ru: string}
+export const tags: Array<tagType> = [
   {key: "art", en: "art", ru: "совриск"},
   {key: "techart", en: "technical art", ru: "тех.арт"},
   {key: "web", en: "web", ru: "веб"},
   {key: "dev", en: "development", ru: "разработка"},
   {key: "3d", en: "3d art", ru: "3D арт"},
   {key: "2d", en: "2d art", ru: "2D арт"},
-  {key: "illustration", en: "illustration", ru: "иллюстрации"}
+  {key: "illustration", en: "illustration", ru: "иллюстрации"},
+  {key: "ar", en: "AR", ru: "AR"},
 ]
 
-export const projects = [
+type projectTranslation = {title: string, description: string}
+export interface projectType {
+  id: number,
+  draft: 0 | 1,
+  href: string,
+  img: string,
+  en: projectTranslation,
+  ru: projectTranslation,
+  date: string,
+  tags: Array<string>
+}
+
+export const projects: Array<projectType> = [
   {
     id: 1,
     draft: 0,
@@ -48,7 +62,17 @@ export const projects = [
     ru: {title: "Реальная Карта Нормалей", description: "фиджитализм и 3д печать"},
     date: "2019-03-26",
     tags: ["art", "3d", "dev", "techart"]
-  }
+  },
+  {
+    id: 5,
+    draft: 1,
+    href: "/projects/normalmap",
+    img: "/projects/normalmap/thumb.jpg",
+    en: {title: "Real Normalmap", description: "figitalism and 3d-printing"},
+    ru: {title: "Реальная Карта Нормалей", description: "фиджитализм и 3д печать"},
+    date: "2019-03-26",
+    tags: ["ar", "3d", "techart"]
+  },
 ]
 // devica
 // tape
