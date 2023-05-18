@@ -2,7 +2,7 @@
 	import { lang, backgroundColor } from '$lib/stores';
 	import { reveal } from 'svelte-reveal';
 	import { home } from '$lib/content/common';
-	backgroundColor.set('#a03927');
+	backgroundColor.set('#aa3922');
 	const data = {
 		skillset: { en: 'Skillset', ru: 'Навыки' },
 		programming: { en: 'Programming', ru: 'Программирование' },
