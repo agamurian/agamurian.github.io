@@ -34,8 +34,6 @@ jobs:
           path: 'build/'
 
   deploy:
-    with:
-      branch: gh-pages
     needs: build_site
     runs-on: ubuntu-latest
 
@@ -44,10 +42,10 @@ jobs:
       id-token: write
 
     environment:
-      name: github-pages
+      name: gh-pages
       url: ${{ steps.deployment.outputs.page_url }}
     
     steps:
       - name: Deploy
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v2
