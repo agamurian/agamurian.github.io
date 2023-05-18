@@ -34,18 +34,20 @@ jobs:
           path: 'build/'
 
   deploy:
-    needs: build_site
-    runs-on: ubuntu-latest
+    with:
+      branch: gh-pages
+      needs: build_site
+      runs-on: ubuntu-latest
 
-    permissions:
-      pages: write
-      id-token: write
+      permissions:
+        pages: write
+        id-token: write
 
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    
-    steps:
-      - name: Deploy
-        id: deployment
-        uses: actions/deploy-pages@v1
+      environment:
+        name: github-pages
+        url: ${{ steps.deployment.outputs.page_url }}
+      
+      steps:
+        - name: Deploy
+          id: deployment
+          uses: actions/deploy-pages@v1
