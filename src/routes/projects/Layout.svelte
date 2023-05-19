@@ -1,5 +1,4 @@
 <script lang="ts">
-	export let id: number;
 	import { page } from '$app/stores';
 	import { lang } from '$lib/stores';
 	import { projects } from '$lib/content/projects';
