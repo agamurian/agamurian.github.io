@@ -65,14 +65,13 @@ export const projects: Array<projectType> = [
   },
   {
     id: 5,
-    draft: 1,
-    href: "/projects/normalmap",
-    img: "/projects/normalmap/thumb.jpg",
-    en: {title: "Real Normalmap", description: "figitalism and 3d-printing"},
-    ru: {title: "Реальная Карта Нормалей", description: "фиджитализм и 3д печать"},
-    date: "2019-03-26",
+    draft: 0,
+    href: "/projects/seeance",
+    img: "/projects/seeance/thumb.jpg",
+    en: {title: "Seeance", description: "Making 3D-scanned human body alive for AR"},
+    ru: {title: "Seeance", description: "Оживление 3D-скана тела человека для AR"},
+    date: "2021-02-17",
     tags: ["ar", "3d", "techart"]
   },
 ]
-// devica
 // tape
