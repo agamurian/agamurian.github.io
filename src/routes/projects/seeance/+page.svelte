@@ -15,7 +15,8 @@ Seeance is a website through which you can see an animated 3D scan of the human 
 			text2: `My task was to set the 3dscan in motion and optimize it for the web.
 This is an art project, and the IDLE animation here is not extrapolated in any way, well it was necessary to make realistic, detailed, barely noticeable movements of the human body with a state when the person himself does not consciously move.
                                                                                       
-Breathing, heartbeat, blinking and barely noticeable hand tremors together create an effect similar to the uncanny valley effect, unique to this project.                                                                                      
+Breathing, heartbeat, blinking and barely noticeable hand tremors together create an effect similar to the uncanny valley effect, unique to this project.                   
+
 What I've done:
 Optimized models and textures, added missing parts for references (eye, teeth, eyelashes), Rigging, Animation, export, compression, testing and editing along the way.
                                                                                       
