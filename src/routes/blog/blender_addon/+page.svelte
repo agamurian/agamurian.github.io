@@ -28,13 +28,10 @@
 <Layout>
 <img class="w-100 my-10 rounded" src="/blog/wargaming.png" />
 	<p class="whitespace-pre-line my-10">
-		{data[$lang].text1}
 	</p>
 	<p>
-		<a href={data[$lang].titleLink}>{data[$lang].title}</a>
 	</p>
 	<p class="whitespace-pre-line my-10">
-		{data[$lang].text2}
 	</p>
 </Layout>
 

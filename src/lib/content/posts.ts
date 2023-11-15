@@ -36,7 +36,7 @@ export const posts: Array<projectType> = [
   {
     id: 2,
     draft: 0,
-    href: "/blog/wargaming",
+    href: "/blog/blender_addon",
     img: "/blog/blender_addon.webp",
     en: {title: "Blender addon development", description: "as a technical artist"},
     ru: {title: "Разработка аддонов для Blender", description: "как технический художник"},
