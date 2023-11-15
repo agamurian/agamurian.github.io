@@ -4,7 +4,8 @@ interface translation {ru: any, en: any}
 export const menu: Array<menuItem> = [
   {href: '/', en: 'Home', ru: 'Главная'},
   {href: '/about', en: 'About me', ru: 'Обо мне'},
-  {href: '/projects', en: 'Projects', ru: 'Проекты'}
+  {href: '/projects', en: 'Projects', ru: 'Проекты'},
+  {href: '/blog', en: 'Blog', ru: 'Блог'}
 ];
 
 export const meta = {
