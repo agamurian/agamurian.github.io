@@ -1,4 +1,4 @@
-<script lang="ts">
+<script lang="js">
 	import { T, OrbitControls } from '@threlte/core';
 	import { BoxGeometry } from 'three';
 	import { spring } from 'svelte/motion';

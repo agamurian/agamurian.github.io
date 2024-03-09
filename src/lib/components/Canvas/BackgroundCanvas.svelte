@@ -13,8 +13,8 @@
 
 <div style="background-color: {$backgroundColor}; transition: 0.4s ease-out;">
 	<Canvas>
-		<!--<Fog color={colorToHex($backgroundColor)} near={1.2} far={50} />-->
-		<!--<Pass pass={new AdaptiveToneMappingPass()} />-->
+		<Fog color={colorToHex($backgroundColor)} near={1.2} far={50} />
+		<Pass pass={new AdaptiveToneMappingPass()} />
 
 		<SceneWrapper />
 	</Canvas>

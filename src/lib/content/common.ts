@@ -5,6 +5,7 @@ export const menu: Array<menuItem> = [
   {href: '/', en: 'Home', ru: 'Главная'},
   {href: '/about', en: 'About me', ru: 'Обо мне'},
   {href: '/projects', en: 'Projects', ru: 'Проекты'},
+  {href: '/gallery', en: 'Gallery', ru: 'Галерея'},
   {href: '/blog', en: 'Blog', ru: 'Блог'}
 ];
 
