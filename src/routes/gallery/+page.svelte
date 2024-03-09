@@ -31,11 +31,23 @@
 
 <article class="p-5">
 	<img class='img' src="/gallery/1.webp"/>
+	<div class="text">image one</div>
+	<img  class='img' src="/gallery/2.webp"/>
+	<div class="text">image seven</div>
+	<img  class='img' src="/gallery/3.webp"/>
+	<div class="text">image eight</div>
+	<img  class='img' src="/gallery/4.webp"/>
+	<div class="text">image nine</div>
+	<img class='img' src="/gallery/5.webp"/>
+	<div class="text">image numbre one</div>
+	<img class='img' src="/gallery/6.webp"/>
 	<div class="text">image numbre one</div>
 	<img class='img' src="/gallery/w1.webp"/>
 	<div class="text">image one</div>
 	<img  class='img' src="/gallery/w7.webp"/>
 	<div class="text">image seven</div>
+	<img class='img' src="/gallery/andrey-golovin-fancy-coffee-dot-kotete.webp"/>
+	<div class="text">Coffee and Orange</div>
 	<img  class='img' src="/gallery/w8.webp"/>
 	<div class="text">image eight</div>
 	<img  class='img' src="/gallery/w9.webp"/>
