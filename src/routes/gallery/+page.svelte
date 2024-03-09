@@ -1,4 +1,5 @@
 <script>
+	import Player from '$lib/components/Player/Player.svelte';
 	import { backgroundColor, lang } from '$lib/stores';
 	backgroundColor.set('#000000');
 	const data = {
@@ -29,6 +30,7 @@
 	};
 </script>
 
+<Player/>
 <article class="p-5">
 	<img  class='img' src="/gallery/nine.webp"/>
 	<div class="text">image nine</div>
