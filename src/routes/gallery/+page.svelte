@@ -1,6 +1,6 @@
 <script>
 	import { backgroundColor, lang } from '$lib/stores';
-	backgroundColor.set('#111111');
+	backgroundColor.set('#000000');
 	const data = {
 		name: { en: 'Andrey Golovin', ru: 'Андрей Головин' },
 		text: {
