@@ -55,13 +55,17 @@
 <style lang="css">
 
 	.text {
-		font-family: Monospace;
+		color: antiquewhite;
+		opacity: 0.6;
+		font-family: 'Golos Text';
+		font-weight: 600;
 		font-size: 0.6rem;
-		margin-right: 2rem;
 		margin: 1rem;
-		margin-bottom: 2rem;
+		margin-bottom: 5rem;
+		text-align: center;
 	}
 	.img {
+		max-height: 75vh;
 		outline: none;
 		border: none;
 		display: block;
