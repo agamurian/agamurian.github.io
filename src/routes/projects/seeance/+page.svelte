@@ -65,12 +65,12 @@ Using simple functions like sine and perlin noise, you can transfer a large numb
 	<p class="whitespace-pre-line my-10">
 		{data[$lang].text2}
 	</p>
-	<img class="w-100 my-10 rounded" src="/projects/seeance/3.jpg" />
-	<img class="w-100 my-10 rounded" src="/projects/seeance/1.jpg" />
+	<img class="w-100 my-10 rounded" src="/projects/seeance/3.webp" />
+	<img class="w-100 my-10 rounded" src="/projects/seeance/1.webp" />
 	<video src="/projects/seeance/5.MOV" controls />
 	<video src="/projects/seeance/6.MOV" controls />
-	<img class="w-100 my-10 rounded" src="/projects/seeance/7.jpg" />
-	<img class="w-100 my-10 rounded" src="/projects/seeance/8.jpg" />
+	<img class="w-100 my-10 rounded" src="/projects/seeance/7.webp" />
+	<img class="w-100 my-10 rounded" src="/projects/seeance/8.webp" />
 	<video src="/projects/seeance/9.mp4" controls />
 	<video src="/projects/seeance/10.mp4" controls />
 	<video src="/projects/seeance/11.mp4" controls />
