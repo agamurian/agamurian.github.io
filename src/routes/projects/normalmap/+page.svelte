@@ -24,7 +24,7 @@
 	const images = ['01', '02', '03', '04', '05', '06', '08', '09', '10', '11'];
 
 	const getImagePath = (num: string): string => {
-		return `/projects/normalmap/P-AGAMURA-NM-${num}.png`;
+		return `/projects/normalmap/P-AGAMURA-NM-${num}.webp`;
 	};
 </script>
 

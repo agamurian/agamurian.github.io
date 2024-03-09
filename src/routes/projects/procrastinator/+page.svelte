@@ -48,7 +48,7 @@
 	})();
 
 	const getImagePath = (name: string): string => {
-		return `/projects/procrastinator/${name}.png`;
+		return `/projects/procrastinator/${name}.webp`;
 	};
 </script>
 

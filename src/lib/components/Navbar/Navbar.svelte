@@ -25,7 +25,7 @@
 	<section class="text-left w-15">
 		<a class="m-0" href="/#">
 			<img
-				src="/cat_avatar_white_trimmed.png"
+				src="/cat_avatar_white_trimmed.webp"
 				style="max-height:1.3rem;margin-top:0.3rem; margin-left: 0.3rem;"
 				alt="cat logo"
 			/>

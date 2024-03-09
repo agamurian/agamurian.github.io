@@ -24,7 +24,7 @@
 </svelte:head>
 
 <Layout>
-<img class="w-100 my-10 rounded" src="/blog/wargaming.png" />
+<img class="w-100 my-10 rounded" src="/blog/wargaming.webp" />
 	<p class="whitespace-pre-line my-10">
 		{data[$lang].text1}
 	</p>

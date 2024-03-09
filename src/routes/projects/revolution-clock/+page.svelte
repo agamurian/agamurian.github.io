@@ -49,7 +49,7 @@
 		}
 	};
 
-	const images = ['rc4.png', 'rc1.JPG', 'rc2.JPG', 'rc3.png'];
+	const images = ['rc4.webp', 'rc1.JPG', 'rc2.JPG', 'rc3.webp'];
 
 	const getImagePath = (num: string): string => {
 		return `/projects/revolution-clock/${num}`;

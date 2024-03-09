@@ -44,7 +44,7 @@
 </svelte:head>
 
 <Layout>
-<img class="w-100 my-10 rounded" src="/blog/threading.png" />
+<img class="w-100 my-10 rounded" src="/blog/threading.webp" />
 
   <code style="width: 100%; padding: 1.5rem">
     <p class="comment"># Import necessary modules</p>

@@ -42,7 +42,7 @@
 	];
 
 	const getImagePath = (num: string): string => {
-		return `/projects/hga/F_HCGP_${num}.png`;
+		return `/projects/hga/F_HCGP_${num}.webp`;
 	};
 </script>
 
