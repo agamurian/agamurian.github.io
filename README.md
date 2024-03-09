@@ -1,6 +1,9 @@
-# create-svelte
+# Personal Website 
+### (agamurian.github.io)[agamurian.github.io]
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+classical sveltekit with tailwind, threlte and few other packages. Rems primaraly, instant and simple.
+
+Working with github Actions on github Pages.
 
 ## Creating a project
 
