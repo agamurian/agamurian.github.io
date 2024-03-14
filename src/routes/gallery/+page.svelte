@@ -30,7 +30,6 @@
 	};
 </script>
 
-<Player/>
 <article class="p-5">
 	<img  class='img' src="/gallery/nine.webp"/>
 	<div class="text">image nine</div>
