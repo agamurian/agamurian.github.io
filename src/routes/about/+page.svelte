@@ -36,6 +36,10 @@
 	</div>
 	<br />
 	<p>
+		<a href="/Andrey_Golovin_CV.pdf">CV</a><br />
+	</p>
+	<br />
+	<p>
 		<a mailto="agamurain@outlook.com">agamurian@outlook.com</a><br />
 	</p>
 	<p>
